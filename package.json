@@ -1,0 +1,25 @@
+{
+  "name": "vitepress-template",
+  "version": "1.0.0",
+  "description": "VitePress搭建技术博客指南来啦~",
+  "main": "index.js",
+  "scripts": {
+    "dev:docs": "vitepress dev docs",
+    "build:docs": "vitepress build docs",
+    "serve:docs": "vitepress serve docs"
+  },
+  "keywords": [
+    "chuxin",
+    "Vue",
+    "VitePress",
+    "vitepress",
+    "vitePress",
+    "vitePress-template"
+  ],
+  "author": "云层上的光|初心",
+  "license": "ISC",
+  "devDependencies": {
+    "vitepress": "1.0.0-beta.1",
+    "vue": "^3.3.4"
+  }
+}
