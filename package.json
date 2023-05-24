@@ -19,6 +19,7 @@
   "author": "云层上的光|初心",
   "license": "ISC",
   "devDependencies": {
+    "vite": "^4.3.8",
     "vitepress": "1.0.0-beta.1",
     "vue": "^3.3.4"
   }
