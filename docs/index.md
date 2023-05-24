@@ -12,7 +12,7 @@ hero:
   actions:
     - theme: brand
       text: 开始
-      link: /business/
+      link: /guide/
     - theme: alt
       text: GitHub 查看我
       link: https://github.com/chuxin-cs
@@ -24,22 +24,22 @@ hero:
       link: https://juejin.cn/user/4262122786936445
 
 features:
-- title: 源码系列
-  details: Vue全家桶、hooks系列
-  icon: 🎛
-- title: 业务沉淀
-  details: 工作中业务沉淀
-  icon: 🚀
-- title: 前端工程化
-  details: vite、webpack、rollup、esbuild等
-  icon: ⚡
-- title: 工具百宝箱
-  details: 前端工具百宝箱
-  icon: 🦾
-- title: JavaScript基础
-  details: JavaScript回炉重造
-  icon: 🛠
-- title: hooks系列
-  details: VueUse、ahooks
-  icon: ☁️
+  - title: 源码系列
+    details: Vue全家桶、hooks系列
+    icon: 🎛
+  - title: 业务沉淀
+    details: 工作中业务沉淀
+    icon: 🚀
+  - title: 前端工程化
+    details: vite、webpack、rollup、esbuild等
+    icon: ⚡
+  - title: 工具百宝箱
+    details: 前端工具百宝箱
+    icon: 🦾
+  - title: JavaScript基础
+    details: JavaScript回炉重造
+    icon: 🛠
+  - title: hooks系列
+    details: VueUse、ahooks
+    icon: ☁️
 ---
